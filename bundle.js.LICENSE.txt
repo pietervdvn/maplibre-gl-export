@@ -6,8 +6,6 @@
  * @version   v4.2.8+1e68dce6
  */
 
-/*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
-
 /**
  * @license
   Copyright (c) 2008, Adobe Systems Incorporated
