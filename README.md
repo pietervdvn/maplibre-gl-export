@@ -82,7 +82,7 @@ You can specify default option as follows.
   - Display crosshair on the map. it helps to adjust the map center before printing.
   - accepts `true` and `false` value
   - default is `false`
-- PritableArea
+- PrintableArea
   - Display printable area on the map it helps to adjust pritable area before printing.
   - accepts `true` and `false` value
   - default is `false`
